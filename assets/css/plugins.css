@@ -4063,7 +4063,7 @@ div.tagsinput span.tag {
   float: left;
   padding: 5px;
   text-decoration: none;
-  background: #1bbc9b;
+  background: #ff8e05;
   color: #ffffff;
   margin-right: 5px;
   margin-bottom: 5px;
@@ -4233,11 +4233,11 @@ div.tagsinput div {
   border-radius: 2px 2px 0 0;
 }
 .select2-drop-active {
-  border: 2px solid #1bbc9b;
+  border: 2px solid #ff8e05;
   border-top: none;
 }
 .select2-drop.select2-drop-above.select2-drop-active {
-  border-top: 2px solid #1bbc9b;
+  border-top: 2px solid #ff8e05;
 }
 .select2-container .select2-choice .select2-arrow {
   display: inline-block;
@@ -4259,10 +4259,10 @@ div.tagsinput div {
   background: url('../../assets/plugins/forms/select2/select2.png') no-repeat 0 2px;
 }
 .select2-container .select2-choice:hover {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .select2-container .select2-choice:hover .select2-arrow {
-  border-left-color: #1bbc9b;
+  border-left-color: #ff8e05;
 }
 .select2-search {
   display: inline-block;
@@ -4316,7 +4316,7 @@ div.tagsinput div {
 }
 .select2-dropdown-open.select2-drop-above .select2-choice,
 .select2-dropdown-open.select2-drop-above .select2-choices {
-  border: 2px solid #1bbc9b;
+  border: 2px solid #ff8e05;
   border-top-color: transparent;
   background-color: #ffffff;
 }
@@ -4324,7 +4324,7 @@ div.tagsinput div {
   background: transparent;
   -webkit-filter: none;
   filter: none;
-  border-left: 2px solid #1bbc9b;
+  border-left: 2px solid #ff8e05;
 }
 .select2-dropdown-open .select2-choice .select2-arrow b {
   background-position: -18px 1px;
@@ -4384,7 +4384,7 @@ div.tagsinput div {
   user-select: none;
 }
 .select2-results .select2-highlighted {
-  background: #1bbc9b;
+  background: #ff8e05;
   color: #fff;
 }
 .select2-results li em {
@@ -4458,7 +4458,7 @@ disabled look for disabled choices in the results dropdown
 }
 .select2-container-multi .select2-choices:hover,
 .select2-dropdown-open .select2-choices {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .select2-locked {
   padding: 3px 5px 3px 5px !important;
@@ -4661,7 +4661,7 @@ disabled look for disabled choices in the results dropdown
 .bootstrap-duallistbox-container select:hover,
 .bootstrap-duallistbox-container select:active,
 .bootstrap-duallistbox-container select:focus {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .bootstrap-duallistbox-container .moveall,
 .bootstrap-duallistbox-container .removeall {
@@ -4691,7 +4691,7 @@ disabled look for disabled choices in the results dropdown
 .bootstrap-duallistbox-container .filter:hover,
 .bootstrap-duallistbox-container .filter:active,
 .bootstrap-duallistbox-container .filter:focus {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .bootstrap-duallistbox-container .moveonselect .move,
 .bootstrap-duallistbox-container .moveonselect .remove {
@@ -4744,7 +4744,7 @@ disabled look for disabled choices in the results dropdown
 .onoffswitch-inner:before {
   content: "ON";
   padding-left: 10px;
-  background-color: #1bbc9b;
+  background-color: #ff8e05;
   color: #FFFFFF;
 }
 .onoffswitch-inner:after {
@@ -5241,7 +5241,7 @@ disabled look for disabled choices in the results dropdown
   background: #d2d7d3;
 }
 .sp-dd {
-  color: #1bbc9b;
+  color: #ff8e05;
 }
 /* -----------------------------------------
    Form wizard
@@ -5495,20 +5495,20 @@ div.mce-path {
 .mce-toolbar .mce-btn-group .mce-btn:focus,
 .qt-fullscreen:hover,
 .qt-fullscreen:focus {
-  background: #1bbc9b;
-  border-color: #1bbc9b;
+  background: #ff8e05;
+  border-color: #ff8e05;
   color: #ffffff;
   box-shadow: none;
 }
 .mce-toolbar .mce-btn-group .mce-btn.mce-active,
 .mce-toolbar .mce-btn-group .mce-btn:active {
-  background: #1bbc9b;
-  border-color: #1bbc9b;
+  background: #ff8e05;
+  border-color: #ff8e05;
   box-shadow: none;
   color: #ffffff;
 }
 .mce-toolbar .mce-btn-group .mce-btn.mce-active:hover {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .mce-toolbar .mce-btn-group .mce-btn.mce-active:hover i.mce-ico {
   color: #ffffff;
@@ -5646,7 +5646,7 @@ div.mce-path {
 }
 .slider-selection {
   position: absolute;
-  background: #1bbc9b;
+  background: #ff8e05;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 2px;
@@ -5663,7 +5663,7 @@ div.mce-path {
 }
 .slider-handle.round {
   border-radius: 50%;
-  background-color: #1bbc9b;
+  background-color: #ff8e05;
   border: 6px solid #ffffff;
 }
 .slider-handle.round:before {
@@ -7318,7 +7318,7 @@ The default control bar that is a container for most of the controls.
   border-color: #3fc380;
 }
 #email-sidebar #email-nav li a .circle.color-teal {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 #email-sidebar #email-nav li a .circle.color-dark {
   border-color: #2c3e50;
@@ -7349,7 +7349,7 @@ The default control bar that is a container for most of the controls.
   background-color: #f2f1ef;
 }
 #email-sidebar #email-nav li a:hover i {
-  color: #1bbc9b;
+  color: #ff8e05;
 }
 #email-sidebar #email-nav li.nav-header {
   display: block;

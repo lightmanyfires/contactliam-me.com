@@ -1018,7 +1018,7 @@ body.full-screen #header {
 }
 #header .navbar #top-nav .navbar-nav li a:hover .nav-notification,
 #header .navbar #top-nav .navbar-nav li a:focus .nav-notification {
-  border-color: #18a689;
+  border-color: #ff8e05;
 }
 #header .navbar #top-nav .navbar-nav li a .avatar {
   border: 1px solid white;
@@ -1704,7 +1704,7 @@ body.full-screen #header {
   color: #ef4836;
 }
 .chat-box h5 .status.online {
-  color: #3fc380;
+  color: #4b89e4;
 }
 .chat-box h5 .status.offline {
   color: #95a5a6;

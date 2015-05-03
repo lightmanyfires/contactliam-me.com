@@ -911,7 +911,7 @@ button.ui-button::-moz-focus-inner {
   width: 17em;
   padding: 5px;
   display: none;
-  border: 2px solid #1bbc9b !important;
+  border: 2px solid #ff8e05 !important;
 }
 .ui-datepicker .ui-datepicker-header {
   position: relative;
@@ -1260,7 +1260,7 @@ button.ui-button::-moz-focus-inner {
   height: 100%;
 }
 .ui-progressbar.progress-bar-teal .ui-progressbar-value {
-  background-color: #1bbc9b;
+  background-color: #ff8e05;
 }
 .ui-progressbar.progress-bar-success .ui-progressbar-value {
   background-color: #3fc380;
@@ -1318,7 +1318,7 @@ button.ui-button::-moz-focus-inner {
   position: absolute;
   width: 20px;
   height: 20px;
-  background-color: #1bbc9b !important;
+  background-color: #ff8e05 !important;
   -webkit-filter: none;
   filter: none;
   z-index: 2;
@@ -1351,7 +1351,7 @@ button.ui-button::-moz-focus-inner {
   font-size: .7em;
   display: block;
   border: 0;
-  background: #1bbc9b;
+  background: #ff8e05;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 2px;
@@ -1486,12 +1486,12 @@ button.ui-button::-moz-focus-inner {
 .ui-spinner.active,
 .ui-spinner:hover,
 .ui-spinner:focus {
-  border-color: #1bbc9b;
+  border-color: #ff8e05;
 }
 .ui-spinner.active .ui-spinner-button,
 .ui-spinner:hover .ui-spinner-button,
 .ui-spinner:focus .ui-spinner-button {
-  border-left-color: #1bbc9b;
+  border-left-color: #ff8e05;
 }
 .ui-spinner-input {
   border: none;
@@ -1654,7 +1654,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
   border: 2px solid #d2d7d3;
-  background: #1bbc9b;
+  background: #ff8e05;
   font-weight: bold;
   color: #ffffff;
 }
@@ -1689,7 +1689,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
   border: 2px solid #d2d7d3;
-  background: #1bbc9b;
+  background: #ff8e05;
   color: #fff;
 }
 .ui-state-highlight a,

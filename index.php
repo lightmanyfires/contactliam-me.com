@@ -17,11 +17,10 @@ define('PAGE_KEYWORDS', '');
                 <div class="sidebar-panel mt0">
                     <!-- Start sidebar-panel-content -->
                     <div class="sidebar-panel-content fullwidth pt0">
-                        <!-- Start chat-user-list -->
 
                         <!-- Import Chat -->
-                        <?php include "components/php/global/chat.php"; ?>
-
+                        <?php include "php/components/global/chat.php"; ?>
+                        
                     </div>
                     <!-- End sidebar-panel-content -->
                 </div>

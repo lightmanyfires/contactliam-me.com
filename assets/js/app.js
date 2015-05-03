@@ -46,7 +46,7 @@ $(document).ready(function() {
             pink: '#f78db8',
             lime: '#a8db43',
             mageta: '#e65097',
-            teal: '#1BBC9B',
+            teal: '#ff8e05',
             black: '#000',
             brown: '#EB974E',
             gray: '#ECF0F1',
