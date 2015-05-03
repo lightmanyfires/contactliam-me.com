@@ -1,0 +1,262 @@
+/* -----------------------------------------
+   Custom.css - put your own changes here 
+----------------------------------------- */
+
+/*Standard button*/
+.std-btn{
+	border-radius: 0px;
+	border:none;
+	background-color:#ff8e05;
+	box-shadow: none;
+	margin-left: 8px;
+	color:white;
+	font-weight:bold;
+	padding: 4px 10px;
+}
+
+.std-btn:hover {
+	opacity: 0.7;
+	color:white;
+}
+
+.std-btn:focus {
+	background-color:#4b89e4;
+	color:white;
+}
+
+
+/* -----------------------------------------
+  Goals Board
+----------------------------------------- */
+
+.goal-board-intro {
+	margin: 10px 0px 0px 25px;
+}
+
+.goal-board-intro p {
+	font-size: 110%;
+}
+
+
+/* -----------------------------------------
+  Performance Board
+----------------------------------------- */
+
+.data-sync {
+	margin: 10px 0px 0px 25px;
+}
+
+.data-sync img {
+
+	width:30px;
+}
+
+.add-service-btn {
+
+	border-radius: 0px;
+	border:none;
+	background-color:#ff8e05;
+	box-shadow: none;
+	color:white;
+	margin-left:8px;
+
+}
+
+/* -----------------------------------------
+   Calendars
+----------------------------------------- */
+
+
+
+.add-calendar ul{
+	list-style: none;
+}
+.add-calendar li{
+	font-weight: bold;
+	color: #666;
+}
+
+.add-calendar i{
+	font-size: 150%;
+	padding:5px 10px 5px 0px;
+}
+
+.add-calendar a {
+	text-decoration: none;
+	color:#666
+}
+
+.add-calendar a:hover {
+	color:#ff8e05;
+}
+
+/* -----------------------------------------
+   Calendars
+----------------------------------------- */
+
+
+/* -----------------------------------------
+   Comparison
+----------------------------------------- */
+.comp-header-left{
+	background-color: ;
+
+}
+
+
+.comp-header-body{
+	background-color: ;
+
+}
+
+
+.comp-header-right{
+	background-color: ;
+
+
+}
+
+.panel-title-compare {
+
+	padding-bottom: 2px;
+	margin: 8px 0px 2px 0px;
+	font-size: 95%;
+	color:#666;
+	
+}
+
+.panel-heading{
+	padding: 2px 0px 0px 5px;
+
+}
+
+
+.compare-img{
+
+	width: 60px;
+	height: 60px;
+	border: 2px grey solid;
+
+}
+
+.comp-header-title {
+
+	background-color: #01427e;
+	padding: 5px 0px 5px 0px;
+	margin: 0px 0px 20px 0px;
+	color:#ffffff;
+	font-weight: bold;
+	border-left: 3px white solid;
+	text-indent: 14px;
+}
+
+.player-info {
+	font-size: 18px;
+	text-align:center;
+	background-color: ;
+	font-weight: bold;
+	color:#666;
+	padding-top: 50px;
+}
+
+.player-info p{
+	margin: 0px;
+	padding-top: 10px;
+}
+
+
+.player-info img{
+
+	text-align: left;
+}
+
+.player-info div{
+	height:60px;
+	border-right: 1px #e2e0db solid;
+
+}
+
+.player-info .im-stats-up{
+	font-size: 30px;
+	padding: 9px 0px 0px 6px;
+
+}
+
+.player-compare-panel {
+
+	border-bottom: 0px;
+	margin-bottom: 15px;
+}
+
+.compare-number{
+
+	text-align: center;
+	background-color: #ff8e05;
+	padding: 0px 0px 0px 0;
+	width:60px;
+	height:60px;
+	margin: 34px auto 10px auto;
+
+}
+
+.compare-number p{
+
+	text-align: center;
+	color:#ffffff;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 9px;
+}
+
+.player-info-stats{
+
+	padding-left: 0px;
+
+}
+
+.player-info-stats i{
+	color:#ff8e05;
+}
+
+.player-info-stats i:hover{
+	color:#4b89e4;
+
+}
+
+.player-age{
+ color:#ff8e05;
+
+}
+
+.comp-header-body {
+	padding: 0px 5px;
+}
+
+.comp-header-right {
+	padding: 0px 5px;
+}
+
+.players-panel {
+	background-color: red;
+
+}
+
+
+/* -----------------------------------------
+  Notifications
+----------------------------------------- */
+
+.dropdown-notification i {
+	color:#ff8e05;
+
+}
+
+
+/* -----------------------------------------
+  Profile Dropdown
+----------------------------------------- */
+
+#profile-drop-down i {
+	color:#ff8e05;
+
+}
