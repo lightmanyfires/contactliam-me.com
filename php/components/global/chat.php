@@ -15,7 +15,7 @@
                                         <li>
                                             <a href="#" class="chat-name">
                                                 <span class="chat-notification">8</span>
-                                                <img class="chat-avatar" src="assets/img/avatars/2.jpg" alt="@chadengle">Damien Breesons
+                                                <img class="chat-avatar" src="assets/img/avatars/2.jpg" alt="@damienbreessons">Damien Breesons
                                                 <span class="status online"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-mobile2"></i></span>
                                             </a>
@@ -23,14 +23,14 @@
                                         <li>
                                             <a href="#" class="chat-name">
                                                 <span class="chat-notification">2</span>
-                                                <img class="chat-avatar" src="assets/img/avatars/3.jpg" alt="@jason">Mat Koubardaris
+                                                <img class="chat-avatar" src="assets/img/avatars/3.jpg" alt="@matkoubardaris">Mat Koubardaris
                                                 <span class="status busy"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-tablet"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/11.jpg" alt="@jenny">Anthongy Morley
+                                                <img class="chat-avatar" src="assets/img/avatars/11.jpg" alt="@anthongymorley">Anthongy Morley
                                                 <span class="status offline"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-screen4"></i></span>
                                             </a>
@@ -42,28 +42,28 @@
                                     <ul class="in">
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/3.jpg" alt="@chadengle">Mat Koubardaris
+                                                <img class="chat-avatar" src="assets/img/avatars/3.jpg" alt="@matkoubardaris">Mat Koubardaris
                                                 <span class="status online"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-mobile2"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/5.jpg" alt="@tod">Randwick RFC
+                                                <img class="chat-avatar" src="assets/img/avatars/5.jpg" alt="@randwickrfc">Randwick RFC
                                                 <span class="status online"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-mobile2"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/6.jpg" alt="@danny">Southern Districts RFC
+                                                <img class="chat-avatar" src="assets/img/avatars/6.jpg" alt="@southerndistricts">Southern Districts RFC
                                                 <span class="status online"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-screen4"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/7.jpg" alt="@steve">Liam Holmes
+                                                <img class="chat-avatar" src="assets/img/avatars/7.jpg" alt="@liamholmes">Liam Holmes
                                                 <span class="status online"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-tablet"></i></span>
                                             </a>
@@ -75,21 +75,21 @@
                                     <ul class="in">
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/8.jpg" alt="@jenna">Kisset
+                                                <img class="chat-avatar" src="assets/img/avatars/8.jpg" alt="@kisset">Kisset
                                                 <span class="status offline"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-screen4"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/9.jpg" alt="@selena">Sheffield Tigers
+                                                <img class="chat-avatar" src="assets/img/avatars/9.jpg" alt="@sheffieldtigers">Sheffield Tigers
                                                 <span class="status offline"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-mobile2"></i></span>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#" class="chat-name">
-                                                <img class="chat-avatar" src="assets/img/avatars/10.jpg" alt="@mickey">James Pritchard
+                                                <img class="chat-avatar" src="assets/img/avatars/10.jpg" alt="@jamespritchard">James Pritchard
                                                 <span class="status offline"><i class="im-circle-small"></i></span>
                                                 <span class="device"><i class="im-mobile2"></i></span>
                                             </a>
@@ -109,7 +109,7 @@
                             <ul class="chat-messages">
                                 <li>
                                     <div class="avatar">
-                                        <img src="assets/img/avatars/3.jpg" alt="@chadengle">
+                                        <img src="assets/img/avatars/3.jpg" alt="@matkoubardaris">
                                     </div>
                                     <div class="message">
                                         <p class="chat-name">Mat Koubardaris <span class="chat-time">15 sec ago</span>
@@ -119,7 +119,7 @@
                                 </li>
                                 <li class="chat-me">
                                     <div class="avatar">
-                                        <img src="assets/img/avatars/1.jpg" alt="@jonhdoe">
+                                        <img src="assets/img/avatars/1.jpg" alt="@jackreid">
                                     </div>
                                     <div class="message">
                                         <p class="chat-name">Jack Reid <span class="chat-time">10 sec ago</span>
@@ -129,7 +129,7 @@
                                 </li>
                                 <li>
                                     <div class="avatar">
-                                        <img src="assets/img/avatars/3.jpg" alt="@chadengle">
+                                        <img src="assets/img/avatars/3.jpg" alt="@matkoubardaris">
                                     </div>
                                     <div class="message">
                                         <p class="chat-name">Mat Koubardaris <span class="chat-time">now</span>
