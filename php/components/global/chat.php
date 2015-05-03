@@ -2,7 +2,7 @@
                         <div class="chat-user-list">
                             <form class="form-horizontal chat-search" role="form">
                                 <div class="form-group">
-                                    <input type="text" class="form-control input-sm" placeholder="Search for user...">
+                                    <input type="text" class="form-control input-sm" placeholder="Search...">
                                     <button type="submit"><i class="im-search3 s16"></i>
                                     </button>
                                 </div>
