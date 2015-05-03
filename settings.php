@@ -61,5 +61,9 @@ define('PAGE_KEYWORDS', '');
         <!-- End #content -->
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/blank.js"></script>
     </body>
 </html>

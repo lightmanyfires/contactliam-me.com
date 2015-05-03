@@ -284,6 +284,27 @@ define('PAGE_KEYWORDS', '');
         
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/blank.js"></script>
+        <!-- Additonal Scripts -->
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.custom.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.pie.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.resize.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.time.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.growraf.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.categories.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.stack.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.orderBars.js"></script>
+        <script src="assets/plugins/charts/flot/jquery.flot.tooltip.min.js"></script>
+        <script src="assets/plugins/charts/flot/date.js"></script>
+        <script src="assets/plugins/charts/sparklines/jquery.sparkline.js"></script>
+        <script src="assets/plugins/charts/pie-chart/jquery.easy-pie-chart.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/charts.js"></script>
 
     </body>
 </html>

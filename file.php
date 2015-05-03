@@ -76,5 +76,12 @@ define('PAGE_KEYWORDS', '');
         
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <!-- Other plugins ( load only nessesary plugins for every page) -->
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/plugins/file/plupload/plupload.full.min.js"></script>
+        <script src="assets/plugins/file/plupload/jquery.plupload.queue.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/file.js"></script>
     </body>
 </html>

@@ -29,7 +29,7 @@
         <script src="assets/plugins/core/quicksearch/jquery.quicksearch.js"></script>
         <!-- Prompt modal -->
         <script src="assets/plugins/ui/bootbox/bootbox.js"></script>
-        <!-- Other plugins ( load only nessesary plugins for every page) -->
+        <!-- Other plugins ( load only nessesary plugins for every page)
         <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
         <script src="assets/plugins/charts/flot/jquery.flot.custom.js"></script>
         <script src="assets/plugins/charts/flot/jquery.flot.pie.js"></script>
@@ -48,3 +48,4 @@
         <script src="assets/js/jquery.appStart.js"></script>
         <script src="assets/js/app.js"></script>
         <script src="assets/js/pages/dashboard.js"></script>
+        -->

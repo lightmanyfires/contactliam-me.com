@@ -10,7 +10,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <!-- Show logo for large screens and laptops -->
-                        <a class="navbar-brand visible-lg visible-md" href="index.html">
+                        <a class="navbar-brand visible-lg visible-md" href="index.php">
                             <img src="assets/img/logo.png" alt="Jump start">
                         </a>
                         <!-- Show logo for small screens -->
@@ -80,18 +80,11 @@
                         <li><a href="goal-board.php"><i class="im-stats-up"></i> <span class="txt">Goals</span></a>
                         </li> -->
                         <li>
-                        <li><a href="connections.php"><i class="im-users"></i> <span class="txt">Connections</span><span class="label">101</span></a>
+                        <li><a href="connections.php"><i class="im-users"></i> <span class="txt">Connections</span><span class="label">23</span></a>
                         </li>
                         <li>
-                            <a href="#"><i class="im-envelop2"></i> <span class="txt">Messages</span><span class="label">12</span></a>
-                            <ul class="sub">
-                                <li><a href="email-inbox.php"><i class="im-arrow-right3"></i> <span class="txt">Messages</span></a>
-                                </li>
-                                <li><a href="email-write.php"><i class="im-arrow-right3"></i> <span class="txt">Send Message</span></a>
-                                </li>
-                                <li><a href="email-read.php"><i class="im-arrow-right3"></i> <span class="txt">Read Message</span></a>
-                                </li>
-                            </ul>
+                        <li><a href="messages.php"><i class="im-bubbles4"></i> <span class="txt">Messages</span><span class="label">14</span></a>
+                        </li>
                         </li>
                         <li><a href="calendar.php"><i class="im-calendar"></i> <span class="txt">Calendar</span></a>
                         </li>

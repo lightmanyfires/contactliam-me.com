@@ -308,5 +308,10 @@ define('PAGE_KEYWORDS', '');
         
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <!-- Other Scripts -->
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/dashboard.js"></script>
     </body>
 </html>

@@ -20,7 +20,8 @@ define('PAGE_KEYWORDS', '');
                         <!-- Start chat-user-list -->
 
                         <!-- Import Chat -->
-                        <?php include "components/php/global/chat.php"; ?>
+                        <?php include "php/components/global/chat.php"; ?>
+                        
 
                     </div>
                     <!-- End sidebar-panel-content -->
@@ -57,5 +58,9 @@ define('PAGE_KEYWORDS', '');
         <!-- End #content -->
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/blank.js"></script>
     </body>
 </html>

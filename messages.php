@@ -1,5 +1,5 @@
 <?php
-define('PAGE_TITLE', 'blank');
+define('PAGE_TITLE', 'Messages');
 define('PAGE_DESC', '');
 define('PAGE_KEYWORDS', '');
 ?>
@@ -17,10 +17,11 @@ define('PAGE_KEYWORDS', '');
                 <div class="sidebar-panel mt0">
                     <!-- Start sidebar-panel-content -->
                     <div class="sidebar-panel-content fullwidth pt0">
+                        <!-- Start chat-user-list -->
 
                         <!-- Import Chat -->
                         <?php include "php/components/global/chat.php"; ?>
-                        
+
                     </div>
                     <!-- End sidebar-panel-content -->
                 </div>
@@ -35,7 +36,7 @@ define('PAGE_KEYWORDS', '');
             <!-- Start .content-wrapper -->
             <div class="content-wrapper">
                 <div id="page-heading" class="page-header">
-                    <h2></i> Home Page</h2>
+                    <h2></i>Messages</h2>
                     <!-- Start .bredcrumb -->
                     <ul id="crumb" class="breadcrumb">
                     </ul>
@@ -56,11 +57,9 @@ define('PAGE_KEYWORDS', '');
         <!-- End #content -->
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
-        <!-- Other plugins -->
         <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
         <script src="assets/js/jquery.appStart.js"></script>
         <script src="assets/js/app.js"></script>
-        <script src="assets/js/pages/dashboard.js"></script>
-        
+        <script src="assets/js/pages/blank.js"></script>
     </body>
 </html>

@@ -155,5 +155,11 @@ define('PAGE_KEYWORDS', '');
         <!-- End #content -->
         <!-- Javascripts -->
         <?php include "php/components/global/scripts.php"; ?>
+        <!-- Other plugins ( load only nessesary plugins for every page) -->
+        <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
+        <script src="assets/plugins/ui/calendar/fullcalendar.js"></script>
+        <script src="assets/js/jquery.appStart.js"></script>
+        <script src="assets/js/app.js"></script>
+        <script src="assets/js/pages/calendar.js"></script>
     </body>
 </html>
