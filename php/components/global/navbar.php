@@ -14,7 +14,7 @@
                             <img src="assets/img/logo.png" alt="Jump start">
                         </a>
                         <!-- Show logo for small screens -->
-                        <a class="navbar-brand hidden-lg hidden-md hidden-xs small-logo" href="index.html">
+                        <a class="navbar-brand hidden-lg hidden-md hidden-sm hidden-xs  small-logo" href="index.html">
                             <img src="assets/img/logo-sm.png" style="width:45px; height:45px; padding:0px 5px 5px 0px;"alt="Jump start">
                         </a>
                     </div>
@@ -29,13 +29,12 @@
                         </form>
                         <!-- Navbar nav -->
                         <ul class="nav navbar-nav pull-right">
-
                         <li class="hidden-lg hidden-md">
                                 <!-- close button for search form in small screens -->
                                 <button type="button" class="close closeSearchForm" aria-hidden="true">&times;</button>
                                 <!-- show search button in small screens -->
-                                <a class="resSearchBtn hidden-lg hidden-md" href="#"><i class="im-search3"></i></a>
-                            </li>
+                                <a class="resSearchBtn hidden-lg hidden-md hidden-sm hidden-xs" href="#"><i class="im-search3"></i></a>
+                        </li>
 
                             <!-- Include notifications -->
                             <?php include "notifications.php"; ?>
@@ -47,7 +46,7 @@
 
                             <?php include "profile-drop-down.php"; ?>
                             
-                            <li>
+                            <li class="hidden-sm hidden-xs">
                                 <a id="toggle-right-sidebar" href="#">
                                     <i class="im-bubbles2"></i>
                                     <i class="nav-notification im-circle2"></i>

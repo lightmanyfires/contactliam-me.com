@@ -1,4 +1,4 @@
-<li class="dropdown">
+<li class="dropdown hidden-sm hidden-xs">
     <a href="#" data-toggle="dropdown">
         <i class="im-envelop2"></i>
         <span class="sr-only">New Messages</span>

@@ -1,4 +1,4 @@
-<li class="dropdown">
+<li class="dropdown hidden-sm hidden-xs">
     <a href="#" data-toggle="dropdown" >
         <img class="avatar" src="assets/img/avatars/1.jpg" width="36" height="36" alt="Jack Reid"> <span class="avatar-name">Jack Reid</span>
         <span class="caret ml5"></span>

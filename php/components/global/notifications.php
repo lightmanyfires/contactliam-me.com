@@ -1,5 +1,5 @@
 
-                            <li class="dropdown">
+                            <li class="dropdown hidden-sm hidden-xs">
                                 <a href="#" data-toggle="dropdown">
                                     <i class="im-earth"></i>
                                     <i class="nav-notification im-circle2"></i>
