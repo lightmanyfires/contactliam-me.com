@@ -80,8 +80,8 @@ define('PAGE_KEYWORDS', '');
                     <div class="content-inner">
                     <!-- Start .row -->
                         <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6 sortable-layout">
-                                <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="panel panel-default plain">
                                             <!-- Start .panel -->
                                             <div class="panel-heading">
                                                 <h4 class="panel-title">Overview One</h4>
@@ -102,11 +102,11 @@ define('PAGE_KEYWORDS', '');
                                             </div>
                                         </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 sortable-layout">
-                                <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="panel panel-default plain">
                                             <!-- Start .panel -->
                                             <div class="panel-heading">
-                                                <h4 class="panel-title">Overview</h4>
+                                                <h4 class="panel-title">Overview Two</h4>
                                             </div>
                                             <div class="panel-body">
                                                 
@@ -125,9 +125,10 @@ define('PAGE_KEYWORDS', '');
                                         </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-6 sortable-layout">
+                            <!-- Bench Press -->
+                            <div class="col-lg-6 col-md-6">
                                 <!-- col-lg-6 start here -->
-                                <div class="panel panel-default plain toggle panelMove panelRefresh">
+                                <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title">BENCH PRESS</h4>
@@ -138,10 +139,10 @@ define('PAGE_KEYWORDS', '');
                                 </div>
                                 <!-- End .panel -->
                             </div>
-                            <!-- col-lg-6 end here -->
-                            <div class="col-lg-6 col-md-6 sortable-layout">
+                            <!-- Box Jump -->
+                            <div class="col-lg-6 col-md-6">
                                 <!-- col-lg-6 start here -->
-                                <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
+                                <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title">BOX JUMP</h4>
@@ -155,11 +156,13 @@ define('PAGE_KEYWORDS', '');
                             <!-- col-lg-6 end here -->
                         </div>
                         <!-- End .row -->
+
+                        <!-- Dead Lift -->
                         <div class="row">
                             <!-- Start .row -->
-                            <div class="col-lg-6 col-md-6 sortable-layout">
+                            <div class="col-lg-6 col-md-6">
                                 <!-- col-lg-6 start here -->
-                                <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
+                                <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title">DEAD LIFT</h4>
@@ -171,9 +174,9 @@ define('PAGE_KEYWORDS', '');
                                 <!-- End .panel -->
                             </div>
                             <!-- col-lg-6 end here -->
-                             <div class="col-lg-6 col-md-6 sortable-layout">
-                                <!-- Start col-lg-6 -->
-                                <div class="panel panel-success plain toggle panelMove panelClose panelRefresh">
+                             <div class="col-lg-6 col-md-6">
+                                <!-- BREAKDOWN -->
+                                <div class="panel panel-success plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title"><i class="im-bars"></i> BREAKDOWN</h4>
@@ -190,9 +193,9 @@ define('PAGE_KEYWORDS', '');
                         <!-- End .row -->
                         <div class="row">
                             <!-- Start .row -->
-                            <div class="col-lg-6 col-md-12 sortable-layout">
-                                <!-- Start col-lg-6 -->
-                                <div class="panel panel-success plain toggle panelMove panelClose panelRefresh">
+                            <div class="col-lg-6 col-md-12">
+                                <!-- REP MAX SQUAT -->
+                                <div class="panel panel-success plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title"><i class="im-bars"></i>1 REP MAX SQUAT</h4>
@@ -204,9 +207,9 @@ define('PAGE_KEYWORDS', '');
                                 <!-- End .panel -->
                             </div>
                             <!-- End col-lg-6 -->
-                            <div class="col-lg-6 col-md-12 sortable-layout">
-                                <!-- Start col-lg-6 -->
-                                <div class="panel panel-success plain toggle panelMove panelClose panelRefresh">
+                            <div class="col-lg-6 col-md-12">
+                                <!-- MONTHLY ACTIVITY -->
+                                <div class="panel panel-success plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title"><i class="im-bars"></i>MONTHLY ACTIVITY</h4>
