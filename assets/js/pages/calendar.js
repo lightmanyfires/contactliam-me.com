@@ -88,19 +88,91 @@ $(document).ready(function() {
 		},
         events: [
         	{
-				title: 'Meeting',
-				start: new Date(y, m, d, 12, 0),
-				end: new Date(y, m, d, 14, 0),
+				title: 'Training',
+				start: new Date(y, m, 5, 18, 30),
+				end: new Date(y, m, d, 21, 30),
 				allDay: false,
-				description: 'Morning meeting with all staff.',
+				description: 'Weekly Training',
 			},
 			{
-				title: 'Important',
-				start: new Date(y, m, d, 12, 0),
-				end: new Date(y, m, d, 14, 0),
+				title: 'Training',
+				start: new Date(y, m, 7, 18, 30),
+				end: new Date(y, m, d, 21, 30),
 				allDay: false,
-				description: 'Important backup on some servers.',
-			}
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 12, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 14, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 19, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 21, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 26, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			{
+				title: 'Training',
+				start: new Date(y, m, 28, 18, 30),
+				end: new Date(y, m, d, 21, 30),
+				allDay: false,
+				description: 'Weekly Training',
+			},
+			
+			{
+				title: 'Game',
+				start: new Date(y, m, 9, 15,0),
+				end: new Date(y, m, d, 17, 0),
+				allDay: false,
+				description: 'TBC',
+			},
+			{
+				title: 'Game',
+				start: new Date(y, m, 16, 15,0),
+				end: new Date(y, m, d, 17, 0),
+				allDay: false,
+				description: 'TBC',
+			},
+			{
+				title: 'Game',
+				start: new Date(y, m, 23, 15,0),
+				end: new Date(y, m, d, 17, 0),
+				allDay: false,
+				description: 'TBC',
+			},
+			{
+				title: 'Game',
+				start: new Date(y, m, 30, 15,0),
+				end: new Date(y, m, d, 17, 0),
+				allDay: false,
+				description: 'TBC',
+			},
+			
         ]
 
 	});
