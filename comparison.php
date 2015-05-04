@@ -48,113 +48,99 @@ define('PAGE_KEYWORDS', '');
 
                 <div class="content-inner">
 
-                    <!-- Start .row -->
-                    <div class="row  ">
+                    <!-- Header -->
+                    <div class="row">
                         <div class="comp-header-title col-lg-1 col-md-1 hidden-sm">Rank</div>
                         <div class="comp-header-title col-lg-7 col-md-7">Comparison</div>
                         <div class="comp-header-title col-lg-4 col-md-4 hidden-sm">Player List</div>
                     </div>
 
                  <div class="row">
-                        <div class="comp-header-left col-lg-1 col-md-1 ">
-                    
-                            <div class="col-lg-2 col-md-1 sortable-layout">
-                                <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
-                                    
-
-                                    
-                                </div>
+                    <!-- left-hand side numbers -->
+                    <div class="comp-header-left col-lg-1 col-md-1 ">
+                        <p>1</p>    
+                    </div>
+                    <!-- Player comparison column -->
+                    <div class="comp-header-body col-lg-7 col-md-7 sortable-layout">
+                        <!-- DREW MITCHELL -->
+                        <div class="panel panel-default plain panelMove player-compare-panel">
+                            <div class="panel-heading">
+                                <h4 class="panel-title-compare">DREW MITCHELL - <span class="player-age">30<span></h4>
+                            </div>
+                            <div class="panel-body p5 player-info">
+                                <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                                    <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-drew-mitchell.200x200.1.1.100.jpg" class="compare-img">
+                                 </div>
+                                 <div class="player-info-height col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>184cm</p></div>
+                                 <div class="player-info-weight col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>92kg</p></div>
+                                 <div class="player-info-postion col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>Wing</p></div>
+                                 <div class="player-info-nationality col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                 <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Australia%20Flag.png" style="width:50px; height:50px;"></div>
+                                 <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                 <a href="#"><i class="im-stats-up"></i></a></div>
+                            </div>
+                        </div> 
+                        <!-- ETHAN FORD -->
+                        <div class="panel panel-default plain panelMove player-compare-panel">
+                            <div class="panel-heading">
+                                <h4 class="panel-title-compare">ETHAN FORD - <span class="player-age">23<span></h4>
+                            </div>
+                            <div class="panel-body p5 player-info">
+                                <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                                    <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-ethan-ford_1427249613_cropped.200x200.1.1.100.jpg" class="compare-img">
+                                 </div> 
+                                 <div class="player-info-height col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>178cm</p></div>
+                                 <div class="player-info-weight col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>90kg</p></div>
+                                 <div class="player-info-postion col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>Fullback</p></div>
+                                 <div class="player-info-nationality col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                 <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Australia%20Flag.png" style="width:50px; height:50px;"></div>
+                                 <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                 <a href="#"><i class="im-stats-up"></i></a></div>
                             </div>
                         </div>
-                        <div class="comp-header-body col-lg-7 col-md-7 sortable-layout">
-                            <div class="panel panel-default plain toggle panelMove panelClose panelRefresh">
-                                
+                        <!-- JAMES PRITCHARD -->
+                        <div class="panel panel-default plain panelMove player-compare-panel">
+                            <div class="panel-heading">
+                                <h4 class="panel-title-compare">JAMES PRITCHARD - <span class="player-age">35<span></h4>
                             </div>
-                        </div>
-                        <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
-                            <div class="panel panel-default plain panelMove player-compare-panel">
-                                <!-- Start .panel -->
-                                <div class="panel-heading">
-                                    <h4 class="panel-title-compare">DREW MITCHELL - <span class="player-age">30<span></h4>
+                            <div class="panel-body p5 player-info">
+                                <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                                    <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-james-pritchard_1427616264_cropped.200x200.1.1.100.png" class="compare-img" class="compare-img">
+                                 </div> 
+                                 <div class="player-info-height col-lg-2 col-sm-2 col-xs-2"><p>175cm</p></div>
+                                 <div class="player-info-weight col-lg-2 col-sm-2 col-xs-2"><p>86kg</p></div>
+                                 <div class="player-info-postion col-lg-2 col-sm-2 col-xs-2"><p>Centre</p></div>
+                                 <div class="player-info-nationality col-lg-2 col-sm-2 col-xs-2">
+                                    <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Canada%20Flag.png" style="width:50px; height:50px;">
                                 </div>
-                                <div class="panel-body p5 player-info">
-                                    <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
-                                        <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-drew-mitchell.200x200.1.1.100.jpg" class="compare-img">
-                                     </div>
-                                     <div class="player-info-height col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>184cm</p></div>
-                                     <div class="player-info-weight col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>92kg</p></div>
-                                     <div class="player-info-postion col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>Wing</p></div>
-                                     <div class="player-info-nationality col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                                     <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Australia%20Flag.png" style="width:50px; height:50px;"></div>
-                                     <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
                                      <a href="#"><i class="im-stats-up"></i></a></div>
-
-                                </div>
                             </div>
-                        </div>
-                        <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
-                            <div class="panel panel-default plain panelMove player-compare-panel">
-                                <!-- Start .panel -->
-                                <div class="panel-heading">
-                                    <h4 class="panel-title-compare">ETHAN FORD - <span class="player-age">23<span></h4>
+                        </div> 
+                        <!-- COURTNEY ROBERTS -->
+                        <div class="panel panel-default plain panelMove player-compare-panel">
+                            <div class="panel-heading">
+                                <h4 class="panel-title-compare">COURTNEY ROBERTS - <span class="player-age">25<span></h4>
+                            </div>
+                            <div class="panel-body p5 player-info">
+                                <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
+                                    <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-courtney-roberts.200x200.1.1.100.jpg" class="compare-img">
+                                 </div> 
+                                 <div class="player-info-height col-lg-2 col-sm-2 col-xs-2"><p>200cm</p></div>
+                                 <div class="player-info-weight col-lg-2 col-sm-2 col-xs-2"><p>112kg</p></div>
+                                 <div class="player-info-postion col-lg-2 col-sm-2 col-xs-2"><p>Lock</p></div>
+                                 <div class="player-info-nationality col-lg-2 col-sm-2 col-xs-2">
+                                    <img src="http://www.veryicon.com/icon/128/Flag/Not%20a%20Patriot/UK%20Flag.png" style="width:50px; height:50px;">
                                 </div>
-                                <div class="panel-body p5 player-info">
-                                    <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
-                                        <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-ethan-ford_1427249613_cropped.200x200.1.1.100.jpg" class="compare-img">
-                                     </div> 
-                                     <div class="player-info-height col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>178cm</p></div>
-                                     <div class="player-info-weight col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>90kg</p></div>
-                                     <div class="player-info-postion col-lg-2 col-md-2 col-sm-2 col-xs-2"><p>Fullback</p></div>
-                                     <div class="player-info-nationality col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                                     <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Australia%20Flag.png" style="width:50px; height:50px;"></div>
-                                     <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                                <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
                                      <a href="#"><i class="im-stats-up"></i></a></div>
-
-                                </div>
                             </div>
                         </div>
-                        <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
-                            <div class="panel panel-default plain panelMove player-compare-panel">
-                                <!-- Start .panel -->
-                                <div class="panel-heading">
-                                    <h4 class="panel-title-compare">JAMES PRITCHARD - <span class="player-age">35<span></h4>
-                                </div>
-                                <div class="panel-body p5 player-info">
-                                    <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
-                                        <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-james-pritchard_1427616264_cropped.200x200.1.1.100.png" class="compare-img" class="compare-img">
-                                     </div> 
-                                     <div class="player-info-height col-lg-2 col-sm-2 col-xs-2"><p>175cm</p></div>
-                                     <div class="player-info-weight col-lg-2 col-sm-2 col-xs-2"><p>86kg</p></div>
-                                     <div class="player-info-postion col-lg-2 col-sm-2 col-xs-2"><p>Centre</p></div>
-                                     <div class="player-info-nationality col-lg-2 col-sm-2 col-xs-2">
-                                        <img src="http://www.veryicon.com/icon/png/Flag/Not%20a%20Patriot/Canada%20Flag.png" style="width:50px; height:50px;">
-                                    </div>
-                                    <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                                         <a href="#"><i class="im-stats-up"></i></a></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
-                            <div class="panel panel-default plain panelMove player-compare-panel">
-                                <!-- Start .panel -->
-                                <div class="panel-heading">
-                                    <h4 class="panel-title-compare">COURTNEY ROBERTS - <span class="player-age">25<span></h4>
-                                </div>
-                                <div class="panel-body p5 player-info">
-                                    <div class="player-info-image col-lg-2 col-md-2 col-sm-2 hidden-xs">
-                                        <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-courtney-roberts.200x200.1.1.100.jpg" class="compare-img">
-                                     </div> 
-                                     <div class="player-info-height col-lg-2 col-sm-2 col-xs-2"><p>200cm</p></div>
-                                     <div class="player-info-weight col-lg-2 col-sm-2 col-xs-2"><p>112kg</p></div>
-                                     <div class="player-info-postion col-lg-2 col-sm-2 col-xs-2"><p>Lock</p></div>
-                                     <div class="player-info-nationality col-lg-2 col-sm-2 col-xs-2">
-                                        <img src="http://www.veryicon.com/icon/128/Flag/Not%20a%20Patriot/UK%20Flag.png" style="width:50px; height:50px;">
-                                    </div>
-                                    <div class="player-info-stats col-lg-2 col-md-2 col-sm-2 col-xs-2">
-                                         <a href="#"><i class="im-stats-up"></i></a></div>
-                                </div>
-                            </div>
-                        </div>
+                    </div>  
+                    <!-- Player list column -->    
+                       
+                       
+                       
                         <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
                             <div class="panel panel-default plain panelMove player-compare-panel">
                                 <!-- Start .panel -->
@@ -250,9 +236,7 @@ define('PAGE_KEYWORDS', '');
             </div>
             <!-- End .content-wrapper -->
             <div class="clearfix"></div>
-        </div>
-        
-        
+        </div>     
 
         // <script type="text/javascript">
         // localStorage.setItem("panels_position_http://localhost/myrepo/comparison.php","{'grid':[{'section':[{'id':'jst_0'}]},{'section':[{'id':'jst_5'},{'id':'jst_4'},{'id':'jst_3'},{'id':'jst_2'},{'id':'jst_1'}]},{'section':[{'id':'jst_6'}]},{'section':[{'id':'jst_8'}]},{'section':[{'id':'jst_7'}]},{'section':[{'id':'jst_10'}]},{'section':[{'id':'jst_11'},{'id':'jst_9'}]},{'section':[{'id':'jst_13'},{'id':'jst_12'}]},{'section':[]},{'section':[]},{'section':[]},{'section':[]},{'section':[]},{'section':[]}]}");
