@@ -1,5 +1,5 @@
 <?php
-define('PAGE_TITLE', 'blank');
+define('PAGE_TITLE', 'Home');
 define('PAGE_DESC', '');
 define('PAGE_KEYWORDS', '');
 ?>
