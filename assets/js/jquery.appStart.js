@@ -14,7 +14,7 @@
             //be sure to be same as colors on main.css or custom-variables.less
             colors : {
                 white: '#fff',
-                dark: '#2C3E50',
+                dark: '#4b89e4',
                 red: '#EF4836',
                 blue: '#1E8BC3',
                 green: '#3FC380',

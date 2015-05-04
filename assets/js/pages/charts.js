@@ -39,7 +39,7 @@ $(document).ready(function() {
 			grid: {
 				show: true,
 			    aboveData: true,
-			    color:'#3f3f3f',
+			    color:'#4b89e4',
 			    labelMargin: 15,
 			    axisMargin: 0, 
 			    borderWidth: 0,
@@ -49,6 +49,7 @@ $(document).ready(function() {
 			    hoverable: true,
 			    autoHighlight: true,
 			    mouseActiveRadius: 20
+
 			},
 	        series: {
 	        	grow: {active:false},
@@ -57,6 +58,7 @@ $(document).ready(function() {
             		fill: true,
             		lineWidth: 2,
             		steps: false
+
 	            	},
 	            points: {
 	            	show:true,
@@ -103,7 +105,7 @@ $(document).ready(function() {
 			grid: {
 				show: true,
 			    aboveData: true,
-			    color: "#3f3f3f" ,
+			    color: "#4b89e4" ,
 			    labelMargin: 5,
 			    axisMargin: 0, 
 			    borderWidth: 0,
@@ -328,12 +330,12 @@ $(document).ready(function() {
 				show:true,
 				hoverable: true,
 				borderWidth: 0,
-			    borderColor:null
+			    borderColor:null,
 			},
 	        colors: chartColours,
 	        tooltip: true, //activate tooltip
 			tooltipOpts: {
-				content: "$%y.0",
+				content: "%y.0",
 				shifts: {
 					x: -30,
 					y: -50
@@ -526,7 +528,7 @@ $(document).ready(function() {
 
 	});
 
-	//------------- Sparklines -------------//
+	/*------------- Sparklines -------------//
 	$('.sparkline-positive').sparkline([5,12,18,15,22, 14,26,28,32,34], {
 		width: '100%',
 		height: '20px',
@@ -562,6 +564,7 @@ $(document).ready(function() {
 		height: '18px',
 		barColor: '#ed7a53',
 	});
+	*/
 
 	//------------- Init pie charts -------------//
     //pass the variables to pie chart init function
@@ -574,9 +577,9 @@ $(document).ready(function() {
 var initPieChartPage = function(lineWidth, size, animateTime, colours) {
 
 	$(".easy-pie-chart").easyPieChart({
-        barColor: colours.dark,
-        borderColor: colours.dark,
-        trackColor: colours.gray,
+        barColor: '#01427e',
+        borderColor: '#01427e',
+        trackColor: '#4b89e4',
         scaleColor: false,
         lineCap: 'butt',
         lineWidth: lineWidth,
@@ -584,15 +587,16 @@ var initPieChartPage = function(lineWidth, size, animateTime, colours) {
         animate: animateTime
     });
     $(".easy-pie-chart-red").easyPieChart({
-        barColor: colours.red,
-        borderColor: colours.red,
-        trackColor: '#fbccbf',
+        barColor: '#ff8e05',
+        borderColor: '#ff8e05',
+        trackColor: '#FFAD5C',
         scaleColor: false,
         lineCap: 'butt',
         lineWidth: lineWidth,
         size: size,
         animate: animateTime
     });
+    
     $(".easy-pie-chart-green").easyPieChart({
         barColor: colours.green,
         borderColor: colours.green,
@@ -635,3 +639,4 @@ var initPieChartPage = function(lineWidth, size, animateTime, colours) {
     });
 
 }
+
