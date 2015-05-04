@@ -78,125 +78,109 @@ define('PAGE_KEYWORDS', '');
 
                  <!-- Start .content-inner -->
                     <div class="content-inner">
-                    <!-- Start .row -->
+                    <!-- First Row -->
                         <div class="row">
+                        <!-- Overview One -->
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="panel panel-default plain">
-                                            <!-- Start .panel -->
-                                            <div class="panel-heading">
-                                                <h4 class="panel-title">Overview One</h4>
-                                            </div>
-                                            <div class="panel-body">
-                                                
-                                            </div>
-                                            <div class="panel-footer white-bg text-center mt15">
-                                                <div class="pie-charts">
-                                                    <div class="easy-pie-chart" data-percent="82">82%</div>
-                                                    <div class="label">Training <br>Sessons</div>
-                                                </div>
-                                                <div class="pie-charts red-pie">
-                                                    <div class="easy-pie-chart-red" data-percent="95">95%</div>
-                                                    <div class="label">Games <br>Played</div>
-                                                </div>
-                                                
-                                            </div>
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title"><i class="im-bars"></i>Overview One</h4>
+                                    </div>
+                                    <div class="panel-body"> 
+                                    </div>
+                                    <div class="panel-footer white-bg text-center mt15">
+                                        <div class="pie-charts">
+                                            <div class="easy-pie-chart" data-percent="82">82%</div>
+                                            <div class="label">Training <br>Sessons</div>
                                         </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="panel panel-default plain">
-                                            <!-- Start .panel -->
-                                            <div class="panel-heading">
-                                                <h4 class="panel-title">Overview Two</h4>
-                                            </div>
-                                            <div class="panel-body">
-                                                
-                                            </div>
-                                            <div class="panel-footer white-bg text-center mt15">
-                                                <div class="pie-charts">
-                                                    <div class="easy-pie-chart" data-percent="76">76%</div>
-                                                    <div class="label">Bench Press<br>Goal</div>
-                                                </div>
-                                                <div class="pie-charts red-pie">
-                                                    <div class="easy-pie-chart-red" data-percent="62">62%</div>
-                                                    <div class="label">40m Sprint <br>Goal</div>
-                                                </div>
-                                                
-                                            </div>
+                                        <div class="pie-charts red-pie">
+                                            <div class="easy-pie-chart-red" data-percent="95">95%</div>
+                                            <div class="label">Games <br>Played</div>
                                         </div>
+                                    </div>
                                 </div>
                             </div>
-                            <!-- Bench Press -->
-                            <div class="col-lg-6 col-md-6">
-                                <!-- col-lg-6 start here -->
+                            <!-- Overview Two -->
+                            <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
-                                        <h4 class="panel-title">BENCH PRESS</h4>
+                                        <h4 class="panel-title"><i class="im-bars"></i>Overview Two</h4>
+                                    </div>
+                                    <div class="panel-body">
+                                        
+                                    </div>
+                                    <div class="panel-footer white-bg text-center mt15">
+                                        <div class="pie-charts">
+                                            <div class="easy-pie-chart" data-percent="76">76%</div>
+                                            <div class="label">Bench Press<br>Goal</div>
+                                        </div>
+                                        <div class="pie-charts red-pie">
+                                            <div class="easy-pie-chart-red" data-percent="62">62%</div>
+                                            <div class="label">40m Sprint <br>Goal</div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Second Row -->
+                        <div class="row">
+                            <!-- Bench Press -->
+                            <div class="col-lg-6 col-md-6">
+                                <div class="panel panel-default plain">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title"><i class="im-bars"></i>BENCH PRESS</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div id="line-chart-dots" style="height: 250px; width:100%;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
                             </div>
                             <!-- Box Jump -->
                             <div class="col-lg-6 col-md-6">
-                                <!-- col-lg-6 start here -->
                                 <div class="panel panel-default plain">
-                                    <!-- Start .panel -->
                                     <div class="panel-heading">
-                                        <h4 class="panel-title">BOX JUMP</h4>
+                                        <h4 class="panel-title"><i class="im-bars"></i>BOX JUMP</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div id="line-chart" style="width: 100%; height:250px;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
                             </div>
-                            <!-- col-lg-6 end here -->
                         </div>
-                        <!-- End .row -->
-
-                        <!-- Dead Lift -->
+                        <!-- Third Row -->
                         <div class="row">
-                            <!-- Start .row -->
+                            <!-- DEAD LIFT -->
                             <div class="col-lg-6 col-md-6">
-                                <!-- col-lg-6 start here -->
                                 <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
-                                        <h4 class="panel-title">DEAD LIFT</h4>
+                                        <h4 class="panel-title"><i class="im-bars"></i>DEAD LIFT</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div id="line-chart-unfilled" style="width: 100%; height:250px;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
                             </div>
-                            <!-- col-lg-6 end here -->
+                             <!-- BREAKDOWN -->
                              <div class="col-lg-6 col-md-6">
-                                <!-- BREAKDOWN -->
-                                <div class="panel panel-success plain">
+                                <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
-                                        <h4 class="panel-title"><i class="im-bars"></i> BREAKDOWN</h4>
+                                        <h4 class="panel-title"><i class="im-bars"></i>BREAKDOWN</h4>
                                     </div>
                                     <div class="panel-body">
                                         <div id="pie-chart" style="width: 100%; height:250px;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
-                                
-                                <!-- End .panel -->
                             </div>      
                         </div>
-                        <!-- End .row -->
+                        <!-- Fourth Row -->
                         <div class="row">
-                            <!-- Start .row -->
-                            <div class="col-lg-6 col-md-12">
-                                <!-- REP MAX SQUAT -->
-                                <div class="panel panel-success plain">
-                                    <!-- Start .panel -->
+                        <!-- REP MAX SQUAT -->
+                            <div class="col-lg-6 col-md-6">
+                                <div class="panel panel-default plain">
                                     <div class="panel-heading">
                                         <h4 class="panel-title"><i class="im-bars"></i>1 REP MAX SQUAT</h4>
                                     </div>
@@ -204,12 +188,10 @@ define('PAGE_KEYWORDS', '');
                                         <div id="bars-chart" style="width: 100%; height:250px;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
                             </div>
-                            <!-- End col-lg-6 -->
-                            <div class="col-lg-6 col-md-12">
-                                <!-- MONTHLY ACTIVITY -->
-                                <div class="panel panel-success plain">
+                            <!-- MONTHLY ACTIVITY -->
+                            <div class="col-lg-6 col-md-6">
+                                <div class="panel panel-default plain">
                                     <!-- Start .panel -->
                                     <div class="panel-heading">
                                         <h4 class="panel-title"><i class="im-bars"></i>MONTHLY ACTIVITY</h4>
@@ -218,15 +200,9 @@ define('PAGE_KEYWORDS', '');
                                         <div id="ordered-bars-chart" style="width: 100%; height:250px;"></div>
                                     </div>
                                 </div>
-                                <!-- End .panel -->
                             </div>
-                            <!-- End col-lg-6 -->
                         </div>
-                        <!-- End col-lg-6 -->
                     </div>
-                    <!-- End .row -->
-                </div>
-                <!-- End .content-inner -->
             </div>
             <!-- End .content-wrapper -->
             <div class="clearfix"></div>
