@@ -14,7 +14,7 @@ $(document).ready(function() {
 		orange : objColors.orange,
 		purple : objColors.purple,
 		pink : objColors.pink,
-		lime : objColors.lime,
+		lime : objColors.lime,	
 		magenta: objColors.magenta,
 		teal: objColors.teal,
 		textcolor: '#5a5e63',

@@ -209,8 +209,7 @@ define('PAGE_KEYWORDS', '');
                                     <img src="https://www.sporple.com/uploads/ooipThumber/uploads/profile/sporple-lewie-catt_1427842937_cropped.200x200.1.1.100.jpg" class="compare-img">
                                 </div>
                             </div>
-                        </div>
-                        
+                        </div>    
                         <div class="comp-header-right col-lg-2 col-md-2 sortable-layout">
                             <div class="panel panel-default plain panelMove player-compare-panel">
                                 <!-- Start .panel -->
@@ -252,6 +251,12 @@ define('PAGE_KEYWORDS', '');
             <!-- End .content-wrapper -->
             <div class="clearfix"></div>
         </div>
+        
+        
+
+        // <script type="text/javascript">
+        // localStorage.setItem("panels_position_http://localhost/myrepo/comparison.php","{'grid':[{'section':[{'id':'jst_0'}]},{'section':[{'id':'jst_5'},{'id':'jst_4'},{'id':'jst_3'},{'id':'jst_2'},{'id':'jst_1'}]},{'section':[{'id':'jst_6'}]},{'section':[{'id':'jst_8'}]},{'section':[{'id':'jst_7'}]},{'section':[{'id':'jst_10'}]},{'section':[{'id':'jst_11'},{'id':'jst_9'}]},{'section':[{'id':'jst_13'},{'id':'jst_12'}]},{'section':[]},{'section':[]},{'section':[]},{'section':[]},{'section':[]},{'section':[]}]}");
+        // </script>   
         <!-- End #content -->
         
         <!-- Javascripts -->
