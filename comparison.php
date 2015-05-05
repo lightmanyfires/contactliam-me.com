@@ -53,10 +53,10 @@ define('PAGE_KEYWORDS', '');
                     <div class="row">
                         <!-- left-hand side numbers -->
                         <div class="comp-header-left col-lg-1 col-md-1 ">
-                            <p>1</p>    
+                            <p></p>    
                         </div>
                         <!-- Player comparison column -->
-                        <div class="comp-header-body col-lg-7 col-md-7 sortable-layout">
+                        <section class="comp-header-body col-lg-7 col-md-7 sortable-layout" id="p-comparison">
                             <!-- DREW MITCHELL -->
                             <div class="panel panel-default plain panelMove player-compare-panel">
                                 <div class="panel-heading">
@@ -131,13 +131,13 @@ define('PAGE_KEYWORDS', '');
                                          <a href="#"><i class="im-stats-up"></i></a></div>
                                 </div>
                             </div>
-                        </div>  
+                        </section>  
 
-                        <!-- Main player list column -->    
-                        <div class="comp-header-right col-lg-4 col-md-4 sortable-layout">
+                        <!-- player list column -->    
+                        <section class="comp-header-right col-lg-4 col-md-4 sortable-layout" id ="liam">
 
                             <!-- Left player list column --> 
-                            <section class="row">   
+                            <div class="row">   
                                 <div class="comp-header-right col-lg-6 col-md-6 sortable-layout">      
                                     <!-- ALEX ROKOBARO -->
                                     <div class="panel panel-default plain panelMove player-compare-panel">
@@ -178,7 +178,7 @@ define('PAGE_KEYWORDS', '');
                                 </div>
                            
                             <!-- Right player list column --> 
-                                <div class="comp-header-right col-lg-6 col-md-6 sortable-layout">    
+                                <div class="comp-header-right col-lg-6 col-md-6 sortable-layout" id="p-list">    
                                     <!-- LEWIE CATT -->
                                     <div class="panel panel-default plain panelMove player-compare-panel">
                                         <div class="panel-heading">
@@ -216,8 +216,8 @@ define('PAGE_KEYWORDS', '');
                                         </div>
                                     </div>
                                 </div>
-                             </section>    
-                        </div> <!-- END Player list column -->   
+                             </div>    
+                        </section> <!-- END Player list column -->   
                     </div><!-- End .row -->  
                 </div><!-- End .content-inner --> 
              </div><!-- End .content-wrapper -->  
@@ -228,8 +228,10 @@ define('PAGE_KEYWORDS', '');
         <!-- Other Scripts -->
         <script src="assets/plugins/forms/icheck/jquery.icheck.js"></script>
         <script src="assets/js/jquery.appStart.js"></script>
+        <!--<script src="assets/js/comparison-custom.js"></script>-->
         <script src="assets/js/app.js"></script>
         <script src="assets/js/pages/dashboard.js"></script>
+        <script src="assets/plugins/core/quicksearch/jquery.quicksearch.js"></script>
     </body>
 </html>                
                        
